@@ -41,7 +41,7 @@ I'm passionate about writing clean, maintainable code, following SOLID principle
 
 - 💼 [LinkedIn](www.linkedin.com/in/akshay-kamble-s4994)  
 - 📧 [Email](mailto:akshay98kamble@gmail.com)  
-- 💻 [Portfolio Website]([https://yourwebsite.dev](https://akshaykamble98.github.io/akshaykamble.github.io/)) *(if you have one)*
+- 💻 [Portfolio Website](https://akshaykamble98.github.io/akshaykamble.github.io) *(if you have one)*
 
 ---
 
