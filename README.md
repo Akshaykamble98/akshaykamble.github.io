@@ -16,24 +16,12 @@ I'm passionate about writing clean, maintainable code, following SOLID principle
 - **DevOps & Cloud:** Docker, GitHub Actions, Jenkins  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Tools:** IntelliJ, Postman, Swagger, Git, JIRA  
-
----
-
-## 📂 Featured Projects
-
-- 🔧 [`inventory-service`](https://github.com/yourname/inventory-service)  
-  RESTful inventory microservice built with **Spring Boot**, **MySql**, and **Docker**, featuring role-based authentication, pagination, and Swagger documentation. Includes unit + integration tests.
-
-- 📦 [`order-management-api`](https://github.com/yourname/order-management-api)  
-  Designed and deployed a microservice to manage customer orders with robust error handling, custom exception classes, and structured logging using SLF4J.
-
 ---
 
 ## 🎯 Career Goals
 
 - Relocating to or working remotely for a European tech company.
 - Solving real-world problems through backend architecture and cloud-native systems.
-- Contributing to open-source projects and mentoring junior developers.
 
 ---
 
